@@ -1,7 +1,3 @@
-Értem, akkor vegyük ki az egyetemet, és legyen egy letisztultabb, lényegre törő változat, ami jól mutat a GitHub-on.
-
-Másold be ezt a teljes szöveget a szerkesztőbe (töröld ki, ami most ott van):
-
 CatchThem-OOP-Java
 A dynamic 2D arcade game built in Java. This project focuses on Object-Oriented Programming (OOP) principles and basic game mechanics.
 
